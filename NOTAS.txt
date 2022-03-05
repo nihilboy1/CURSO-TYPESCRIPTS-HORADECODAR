@@ -1,0 +1,11 @@
+// INSTALAR O TYPESCRIPT
+npm i -g typescript
+
+// CHECAR A VERSÃO  
+tsc -v
+
+// ESTABELECER UM PROJETO TYPESCRIPT
+tsc --init
+
+// COMPILAÇÃO AUTOMATICA
+tsc -w
